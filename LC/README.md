@@ -1,1 +1,1 @@
-# This directory is for LCs and reduction.
+This directory is for LCs and reduction.
